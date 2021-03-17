@@ -1,7 +1,7 @@
 ![ME](https://img.shields.io/badge/Programmer-Orlando%20N.%20Rodriguez-blue)<br>
 [![WORK](https://img.shields.io/badge/Work-Frontend%20Developer%20at%20Inmersoft-brightgreen)](https://github.com/orgs/inmersoft-dev/teams/software-development)
  
-![https://github.com/Qu35t64](https://drive.google.com/file/d/1Z8pMmqOfjb_tjyNOw-cuVRLVnMc-jMGF/view?usp=sharing)
+![https://github.com/Qu35t64](https://github.com/Qu35t64/Qu35t64/blob/main/1614740407384.jpg)
 
 My two passions are fast cars and programming
  
