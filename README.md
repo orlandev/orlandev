@@ -11,6 +11,7 @@
 ![ReactJS](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)</br>
 ![HTML](https://img.shields.io/badge/Html-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)</br>
 ![CSS](https://img.shields.io/badge/Css-blue?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)</br>
+![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white&labelColor=101010)</br>
 
 ## Favorite plataform:
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
