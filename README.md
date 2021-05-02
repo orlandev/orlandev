@@ -13,6 +13,8 @@
 ![CSS](https://img.shields.io/badge/Css-blue?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)</br>
 ![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white&labelColor=101010)</br>
 
+(https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Qu35t64&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px)
+
 ## Favorite plataform:
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
 
