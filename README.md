@@ -1,11 +1,13 @@
 ![ME](https://img.shields.io/badge/Programmer-Orlando%20N.%20Rodriguez-blue)<br>
 [![WORK](https://img.shields.io/badge/Work-Android%20Developer%20at%20Inmersoft-brightgreen)](https://github.com/orgs/inmersoft-dev/teams/software-development)<br>
-[![EMAIL](https://img.shields.io/badge/Email-dfashion.corp@gmail.com-9cf)](mailto:dfashion.corp@gmail.com)<br>
-
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Qu35t64&badges=4&show-avatar=true&style=--header-bg-color:%233398FF;--border-radius:10px"
-/>
- 
+[![EMAIL](https://img.shields.io/badge/Email-dfashion.corp@gmail.com-9cf)](mailto:dfashion.corp@gmail.com)
+<br>
+<br>
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Qu35t64&badges=4&show-avatar=true&style=--header-bg-color:%233398FF;--border-radius:10px" />
+<br>
+<br>
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=Qu35t64" />
+ <br>
 ## Skills:
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)</br>
