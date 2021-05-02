@@ -14,7 +14,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white&labelColor=101010)</br>
 
 <img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Qu35t64&badges=4&show-avatar=true&style=--header-bg-color:%53350;--border-radius:10px"
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Qu35t64&badges=4&show-avatar=true&style=--header-bg-color:%233398FF;--border-radius:10px"
 />
 
 ## Favorite plataform:
