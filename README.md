@@ -6,7 +6,9 @@
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Qu35t64&badges=4&show-avatar=true&style=--header-bg-color:%233398FF;--border-radius:10px" />
 <br>
 <br>
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=Qu35t64" />
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=Qu35t64&labels=true"
+/>
  <br>
 ## Skills:
 
