@@ -3,15 +3,12 @@
 [![EMAIL](https://img.shields.io/badge/Email-dfashion.corp@gmail.com-9cf)](mailto:dfashion.corp@gmail.com)
 <br>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=orlando-dev-code&count_private=true&show_icons=true" alt="orlando-dev-code" /> <br>
+<img src="https://github-readme-stats.vercel.app/api?username=orlando-dev-code&count_private=true&show_icons=true" alt="orlando-dev-code" />  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asielcabrera&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Qu35t64&badges=4&show-avatar=true&style=--header-bg-color:%233398FF;--border-radius:10px" />
-<br>
-<br>
-<img  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=Qu35t64&labels=true"/>
- <br>
+<br> 
 ## Skills:
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010) 
