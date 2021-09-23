@@ -24,13 +24,13 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
 
 ## Favorite tools:
-![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)</br>
-![Visual_Studio Code](https://img.shields.io/badge/Visual_Studio_Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=101010)</br>
-![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)</br>
+![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)
+![Visual_Studio Code](https://img.shields.io/badge/Visual_Studio_Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=101010)
+![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)
 
 ## Favorite OS:
-![Debian](https://img.shields.io/badge/Debian-red?style=for-the-badge&logo=debian&logoColor=white&labelColor=101010)</br>
-![Kali](https://img.shields.io/badge/Kali-blue?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=101010)</br>
+![Debian](https://img.shields.io/badge/Debian-red?style=for-the-badge&logo=debian&logoColor=white&labelColor=101010)
+![Kali](https://img.shields.io/badge/Kali-blue?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=101010)
  
 ## Find me at:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Orlando_Novas_Rodriguez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/orlando-dev/)<br>
