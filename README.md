@@ -1,7 +1,5 @@
-![ME](https://img.shields.io/badge/Programmer-Orlando%20N.%20Rodriguez-blue)<br>
-[![WORK](https://img.shields.io/badge/Work-Android%20Developer%20at%20Inmersoft-brightgreen)](https://github.com/orgs/inmersoft-dev/teams/software-development)<br>
-[![EMAIL](https://img.shields.io/badge/Email-dfashion.corp@gmail.com-9cf)](mailto:dfashion.corp@gmail.com)
-<br>
+<h1 align="center">Hi there! 👋🏻, I'm Orlando Novas Rodriguez</h1>
+<h3 align="center">I'm a passionate Android Kotlin Dev.</h3>
 
 ## Skills:
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010) 
@@ -17,21 +15,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orlando-dev-code&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![CodeRank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Qu35t64&badges=4&show-avatar=true&style=--header-bg-color:%233398FF;--border-radius:10px)]
-
-## Favorite plataform:
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
-
-## Favorite tools:
-![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)
-![Visual_Studio Code](https://img.shields.io/badge/Visual_Studio_Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=101010)
-![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)
-
-## Favorite OS:
-![Debian](https://img.shields.io/badge/Debian-red?style=for-the-badge&logo=debian&logoColor=white&labelColor=101010)
-![Kali](https://img.shields.io/badge/Kali-blue?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=101010)
+## CodeRank:
+[![CodeRank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Qu35t64&badges=4&show-avatar=true&style=--header-bg-color:%233398FF;--border-radius:10px)]() 
  
 ## Find me at:
+[![EMAIL](https://img.shields.io/badge/Email-dfashion.corp@gmail.com-9cf)](mailto:dfashion.corp@gmail.com)<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Orlando_Novas_Rodriguez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/orlando-dev/)<br>
 [![twitter](https://img.shields.io/badge/twitter-ORodrig02906451-0077B5?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/ORodrig02906451)
 
