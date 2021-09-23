@@ -9,8 +9,8 @@
 
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Qu35t64&badges=4&show-avatar=true&style=--header-bg-color:%233398FF;--border-radius:10px" />
 <br> 
-## Skills:
 
+## Skills:
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010) 
 ![ReactJS](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white&labelColor=101010) 
