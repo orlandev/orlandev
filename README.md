@@ -2,14 +2,6 @@
 [![WORK](https://img.shields.io/badge/Work-Android%20Developer%20at%20Inmersoft-brightgreen)](https://github.com/orgs/inmersoft-dev/teams/software-development)<br>
 [![EMAIL](https://img.shields.io/badge/Email-dfashion.corp@gmail.com-9cf)](mailto:dfashion.corp@gmail.com)
 <br>
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=orlando-dev-code&count_private=true&show_icons=true" alt="orlando-dev-code" />  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orlando-dev-code&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![CodeRank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Qu35t64&badges=4&show-avatar=true&style=--header-bg-color:%233398FF;--border-radius:10px)]
-
-<br>
 
 ## Skills:
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010) 
@@ -18,6 +10,14 @@
 ![HTML](https://img.shields.io/badge/Html-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010) 
 ![CSS](https://img.shields.io/badge/Css-blue?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010) 
 ![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white&labelColor=101010)
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=orlando-dev-code&count_private=true&show_icons=true" alt="orlando-dev-code" />  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orlando-dev-code&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![CodeRank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Qu35t64&badges=4&show-avatar=true&style=--header-bg-color:%233398FF;--border-radius:10px)]
 
 ## Favorite plataform:
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
