@@ -13,12 +13,12 @@
  <br>
 ## Skills:
 
-<p> ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010) </p>
-<p> ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010) </p>
-<p> ![ReactJS](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white&labelColor=101010) </p>
-<p> ![HTML](https://img.shields.io/badge/Html-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010) </p>
-<p> ![CSS](https://img.shields.io/badge/Css-blue?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010) </p>
-<p> ![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white&labelColor=101010) </p>
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010) 
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010) 
+![ReactJS](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white&labelColor=101010) 
+![HTML](https://img.shields.io/badge/Html-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010) 
+![CSS](https://img.shields.io/badge/Css-blue?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010) 
+![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white&labelColor=101010)
 
 ## Favorite plataform:
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
