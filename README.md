@@ -10,6 +10,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white&labelColor=101010)
 
 *************
+
 <br>
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=orlando-dev-code&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://www.linkedin.com/in/orlando-dev/)  
@@ -17,7 +18,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orlando-dev-code&&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
 
 <br/>
+
  *************  
+ 
 ## CodeRank:
 [![CodeRank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Qu35t64&badges=4&show-avatar=true&style=--header-bg-color:%233398FF;--border-radius:10px)]() 
  
