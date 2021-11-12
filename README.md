@@ -39,3 +39,5 @@
 
 ## Buy me a coffee:
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://Ko-fi.com/orlandodev)
+
+![](https://komarev.com/ghpvc/?username=orlando-dev-code&label=VISITS)
