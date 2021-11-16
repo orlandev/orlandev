@@ -15,23 +15,23 @@
 
 ## Github Stats:
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=orlando-dev-code&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://www.linkedin.com/in/orlando-dev/)  
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=orlandev&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://www.linkedin.com/in/orlandev/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orlando-dev-code&&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orlandev&&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
 
 <br/>
 
 *************  
  
 ## CodeRank:
-[![CodeRank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=orlando-dev-code&badges=4&show-avatar=true&style=--header-bg-color:%233398FF;--border-radius:10px)]() 
+[![CodeRank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=orlandev&badges=4&show-avatar=true&style=--header-bg-color:%233398FF;--border-radius:10px)]() 
  
 ************* 
 
 ## Find me at:
 [![EMAIL](https://img.shields.io/badge/Email-9cf)](mailto:dfashion.corp@gmail.com)
 [![twitter](https://img.shields.io/badge/twitter-0077B5?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ORodrig02906451)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/orlando-dev/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/orlandev/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/ondev05)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/orlandodev05/)
 
@@ -40,4 +40,4 @@
 ## Buy me a coffee:
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://Ko-fi.com/orlandodev)
 
-![](https://komarev.com/ghpvc/?username=orlando-dev-code&label=VISITS)
+![](https://komarev.com/ghpvc/?username=orlandev&label=VISITS)
