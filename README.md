@@ -1,11 +1,12 @@
 <h1 align="center">Hi there! 👋🏻, I'm Orlando Novas Rodriguez</h1>
 <h3 align="center">I'm a passionate Android Kotlin Dev.</h3>
 
+
 *************
 
-<p>
- ▪️ Android Developer ♥ Kotlin ♥ Jetpack Compose
+### ▪️ Android Developer ♥ Kotlin ♥ Jetpack Compose
 
+<p>
 Hello! My name is Orlando, I am a native mobile application developer for the Android platform. I have spent several years in a process of continuous learning of new technologies, libraries, best practices of architecture, Kotlin, Coroutines, reactive functional programming and a while ago I started with the study of Jetpack Compose. Over the course of all this time I have had the opportunity to gain new knowledge by paying close attention to all phases of mobile application development from initial idea, planning and requirements gathering to successful product delivery. All this has allowed me to have a greater command of the patterns and the best practices to follow for the development of high quality mobile applications and I have applied this knowledge in each of the projects in which I have participated.
 
 In the course of my career as a developer, I have used several frameworks such as Flutter, React, NodeJs with which I have helped to create excellent products for both web and mobile; But some time ago I made the decision to specialize in Native Android Development and since then I have remained in that branch of software development which I consider the best line of work for me.
