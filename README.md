@@ -77,6 +77,6 @@ I have acquired skills with the following tools and libraries that have allowed 
  ************* 
 
 ## Buy me a coffee:
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://Ko-fi.com/orlandodev)
+![Cash App Qr for buy me a coffe](/cash_app_qr.jpg "Cash App for buy me a coffee")
 
 ![](https://komarev.com/ghpvc/?username=orlandev&label=VISITS)
