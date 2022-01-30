@@ -77,6 +77,7 @@ I have acquired skills with the following tools and libraries that have allowed 
  ************* 
 
 ## Buy me a coffee:
-![Cash App Qr for buy me a coffe](/cash_app_qr.jpg "Cash App for buy me a coffee")
 
-![](https://komarev.com/ghpvc/?username=orlandev&label=VISITS)
+<img src="/cash_app_qr.jpg" height="250px" width="250px" />
+
+![Visits](https://komarev.com/ghpvc/?username=orlandev&label=VISITS)
