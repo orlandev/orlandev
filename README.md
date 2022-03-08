@@ -68,7 +68,7 @@ I have acquired skills with the following tools and libraries that have allowed 
 ************* 
 
 ## Find me at:
-[![EMAIL](https://img.shields.io/badge/Email-9cf)](mailto:dfashion.corp@gmail.com)
+[![EMAIL](https://img.shields.io/badge/Email-9cf)](mailto:onovas05@gmail.com)
 [![twitter](https://img.shields.io/badge/twitter-0077B5?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ORodrig02906451)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/orlandev/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/ondev05)
