@@ -3,11 +3,6 @@
 <h3 align="center">I'm a passionate Android Kotlin Dev.</h3>
 </p>
 
-<p align="center">
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</p>
-
 ![Visits](https://komarev.com/ghpvc/?username=orlandev&label=VISITS)
 
 *************
@@ -82,13 +77,20 @@ I have acquired skills with the following tools and libraries that have allowed 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/ondev05)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/orlandodev05/)
 
- ************* 
+************* 
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=orlandev&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
+
+************* 
+ 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 ## Buy me a coffee:
 
+<p align="center">
 <img src="/cash_app_qr.jpg" height="250px" width="250px" />
+ </p>
 
 
