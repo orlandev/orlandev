@@ -7,7 +7,7 @@
 
 *************
 
-### ▪️ Android Developer ♥ Kotlin ♥ Jetpack Compose
+### ▪️ Native Android Developer ♥ Kotlin ♥ Jetpack Compose
 
 <p>
 Hello! My name is Orlando, I am a native mobile application developer for the Android platform. I have spent several years in a process of continuous learning of new technologies, libraries, best practices of architecture, Kotlin, Coroutines, reactive functional programming and a while ago I started with the study of Jetpack Compose. Over the course of all this time I have had the opportunity to gain new knowledge by paying close attention to all phases of mobile application development from initial idea, planning and requirements gathering to successful product delivery. All this has allowed me to have a greater command of the patterns and the best practices to follow for the development of high quality mobile applications and I have applied this knowledge in each of the projects in which I have participated.
