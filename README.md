@@ -1,5 +1,12 @@
+<p align="center">
 <h1 align="center">Hi there! 👋🏻, I'm Orlando Novas Rodriguez</h1>
 <h3 align="center">I'm a passionate Android Kotlin Dev.</h3>
+</p>
+
+<p align="center">
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</p>
 
 ![Visits](https://komarev.com/ghpvc/?username=orlandev&label=VISITS)
 
@@ -79,9 +86,6 @@ I have acquired skills with the following tools and libraries that have allowed 
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=orlandev&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## Buy me a coffee:
 
