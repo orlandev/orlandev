@@ -20,20 +20,25 @@ I have acquired skills with the following tools and libraries that have allowed 
 
 ## Dominated Technologies:
 
-* [Retrofit](https://square.github.io/retrofit/) a REST Client for Android which makes it relatively easy to retrieve and upload JSON (or other structured data) via a REST based webservice.
-* [Dagger Hilt](https://dagger.dev/hilt/) for dependency injection.
-* [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel) to store and manage UI-related data in a lifecycle conscious way.
-* [LiveData](https://developer.android.com/topic/libraries/architecture/livedata) to handle data in a lifecycle-aware fashion.
-* [Navigation Component](https://developer.android.com/guide/navigation) to handle all navigations and also passing of data between destinations.
-* [Work Manager](https://developer.android.com/topic/libraries/architecture/workmanager) to manage Android background jobs.
-* [Material Design](https://material.io/develop/android/docs/getting-started/) an adaptable system of guidelines, components, and tools that support the best practices of user interface design.
-* [Coroutines](https://kotlinlang.org/docs/reference/coroutines-overview.html) used to manage the local storage i.e. `writing to and reading from the database`. Coroutines help in managing background threads and reduces the need for callbacks.
-* [Data Binding](https://developer.android.com/topic/libraries/data-binding/) to declaratively bind UI components in layouts to data sources.
-* [Room](https://developer.android.com/topic/libraries/architecture/room) persistence library which provides an abstraction layer over SQLite to allow for more robust database access while harnessing the full power of SQLite.
-* [Paging Library](https://developer.android.com/topic/libraries/architecture/paging) helps you load and display small chunks of data at a time.
-* [Android KTX](https://developer.android.com/kotlin/ktx) which helps to write more concise, idiomatic Kotlin code.
-* [Preferences](https://developer.android.com/guide/topics/ui/settings) to create interactive settings screens.
-* [Jetpack Compose](https://developer.android.com/jetpack/compose) Jetpack Compose is Android’s modern toolkit for building native UI. It simplifies and accelerates UI development on Android. Quickly bring your app to life with less code, powerful tools, and intuitive Kotlin APIs.
+* [Retrofit](https://square.github.io/retrofit/)  
+* [Dagger Hilt](https://dagger.dev/hilt/)  
+* [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel) 
+* [LiveData](https://developer.android.com/topic/libraries/architecture/livedata)  
+* [Navigation Component](https://developer.android.com/guide/navigation)  
+* [Work Manager](https://developer.android.com/topic/libraries/architecture/workmanager) 
+* [Material Design](https://material.io/develop/android/docs/getting-started/)  
+* [Data Binding](https://developer.android.com/topic/libraries/data-binding/)  
+* [Room](https://developer.android.com/topic/libraries/architecture/room)  
+* [Paging Library](https://developer.android.com/topic/libraries/architecture/paging) 
+* [Android KTX](https://developer.android.com/kotlin/ktx) 
+* [Preferences](https://developer.android.com/guide/topics/ui/settings)  
+* [Jetpack Compose](https://developer.android.com/jetpack/compose) 
+* [Kotlin & Coroutines](https://kotlinlang.org/docs/coroutines-overview.html)
+* [Flow](https://kotlinlang.org/docs/flow.html)
+* [Koin Multiplatform](https://insert-koin.io/docs/setup/v3/)
+* [SQLDelight](https://cashapp.github.io/sqldelight/)
+* [ktlint](https://ktlint.github.io/)
+* [Ktor Client](https://ktor.io/docs/client.html)
 
 ## Skills:
 
