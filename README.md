@@ -23,11 +23,11 @@ I have acquired skills with the following tools and libraries that have allowed 
 
 </br>
 
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&labelColor=101010)]()
+[![Android](https://img.shields.io/badge/Android-72ae2d?style=for-the-badge&logo=android&labelColor=101010)]()
 <br>
-[![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-3DDC84?style=for-the-badge&logo=jetpack-compose&labelColor=101010)]()
+[![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-0095D5?style=for-the-badge&logo=jetpack-compose&labelColor=101010)]()
 <br>
-[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&labelColor=101010)]()
+[![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&labelColor=101010)]()
 <br>
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&labelColor=101010)]()
 
@@ -44,7 +44,7 @@ I have acquired skills with the following tools and libraries that have allowed 
 [![twitter](https://img.shields.io/badge/twitter-0077B5?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ORodrig02906451)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/orlandev/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/ondev05)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/orlandodev05/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/orlandev05/)
 
 ************* 
 
