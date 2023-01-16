@@ -31,7 +31,19 @@ I have acquired skills with the following tools and libraries that have allowed 
 <br>
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&labelColor=101010)]()
 
- 
+*************  
+## Some Projects:
+
+###Some applications in which I have collaborated as an Android Developer.
+
+* Santa Ifigenia Cemetery
+* Descubre Trinidad
+* Z2048
+* ShipStar
+* Paisajes Santiagueros
+
+
+
 *************  
  
 ## CodeRank:
