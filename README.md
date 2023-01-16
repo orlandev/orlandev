@@ -37,12 +37,15 @@ I have acquired skills with the following tools and libraries that have allowed 
 ###Some applications in which I have collaborated as an Android Developer.
 
 
-* Descubre Trinidad   [https://play.google.com/store/apps/details?id=com.inmersoft.santiago](https://play.google.com/store/apps/details?id=com.inmersoft.descubretrinidad) <br>
-   
+* Descubre Trinidad  <br>
+[<img src="https://lh3.googleusercontent.com/RyLoNcOmb91IxHIP9NWfC82chbsCsT-5R25efns1FmuM8xz6znE4CRjIEBosZ1FH2xG1UqH6Axyp-vPFnm4sazbrsaB-S0QT_cN9uWU9UKoSQYCjYQ=s0">](https://play.google.com/store/apps/details?id=com.inmersoft.descubretrinidad)   
  <table>
 <tr>
   <td  width="70%">
+   <p>
  Discover Trinidad is an interactive digital Guide created by Inmersoft, this app has been migrated three times; the first time it was a monolithic style app, then it was migrated to use an API also created by Inmersoft and the third migration is still in progress, which is a total redesign of its interface and this time using Jetpack Compose; This is the app that I have worked on the longest, about two years since its creation and in which I have tried to capture the best practices of mobile development.
+   </p>   
+   
  </td>
  <td>
 <img src="./image_2.jpeg" height="300" width="150">
@@ -52,8 +55,8 @@ I have acquired skills with the following tools and libraries that have allowed 
  
 </table>
 
-* Santa Ifigenia Cemetery   https://play.google.com/store/apps/details?id=com.inmersoft.santiago <br>
-   
+* Santa Ifigenia Cemetery    <br>
+[<img src="https://lh3.googleusercontent.com/RyLoNcOmb91IxHIP9NWfC82chbsCsT-5R25efns1FmuM8xz6znE4CRjIEBosZ1FH2xG1UqH6Axyp-vPFnm4sazbrsaB-S0QT_cN9uWU9UKoSQYCjYQ=s0">](https://play.google.com/store/apps/details?id=com.inmersoft.santaifigenialite)    
  <table>
 <tr>
   <td  width="70%">
@@ -73,8 +76,8 @@ If you decide to visit Santiago de Cuba, without a doubt this is the app you nee
  
 </table>
 
-* Paisajes Santiagueros   https://play.google.com/store/apps/details?id=com.inmersoft.santiago <br>
-   
+* Paisajes Santiagueros    <br>
+[<img src="https://lh3.googleusercontent.com/RyLoNcOmb91IxHIP9NWfC82chbsCsT-5R25efns1FmuM8xz6znE4CRjIEBosZ1FH2xG1UqH6Axyp-vPFnm4sazbrsaB-S0QT_cN9uWU9UKoSQYCjYQ=s0">](https://play.google.com/store/apps/details?id=com.inmersoft.santiago)     
  <table>
 <tr>
   <td  width="70%">
