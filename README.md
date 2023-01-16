@@ -36,13 +36,155 @@ I have acquired skills with the following tools and libraries that have allowed 
 
 ###Some applications in which I have collaborated as an Android Developer.
 
-* Santa Ifigenia Cemetery
-* Descubre Trinidad
-* Z2048
-* ShipStar
-* Paisajes Santiagueros
+
+* Descubre Trinidad   [https://play.google.com/store/apps/details?id=com.inmersoft.santiago](https://play.google.com/store/apps/details?id=com.inmersoft.descubretrinidad) <br>
+   
+ <table>
+<tr>
+  <td  width="70%">
+ Discover Trinidad is an interactive digital Guide created by Inmersoft, this app has been migrated three times; the first time it was a monolithic style app, then it was migrated to use an API also created by Inmersoft and the third migration is still in progress, which is a total redesign of its interface and this time using Jetpack Compose; This is the app that I have worked on the longest, about two years since its creation and in which I have tried to capture the best practices of mobile development.
+ </td>
+ <td>
+<img src="./image_2.jpeg" height="300" width="150">
+ 
+ </td>
+  </tr> 
+ 
+</table>
+
+* Santa Ifigenia Cemetery   https://play.google.com/store/apps/details?id=com.inmersoft.santiago <br>
+   
+ <table>
+<tr>
+  <td  width="70%">
+  Paisajes Santiago is an app built entirely in Jetpack Compose using Material Design 2, Exoplayer, 
+ Room among other libraries.
+If you decide to visit Santiago de Cuba, without a doubt this is the app you need. 
+ Do you need help to organize your visit? Are you looking for a complete, versatile and 
+ entertaining audio guide? Do you want to be up to date with the events of the city? Download this app,
+ choose your route... and start exploring Santiago de Cuba in the way that best suits you!
+
+ </td>
+ <td>
+<img src="./image_1.jpeg" height="300" width="150">
+ 
+ </td>
+  </tr> 
+ 
+</table>
+
+* Paisajes Santiagueros   https://play.google.com/store/apps/details?id=com.inmersoft.santiago <br>
+   
+ <table>
+<tr>
+  <td  width="70%">
+  Paisajes Santiago is an app built entirely in Jetpack Compose using Material Design 2, Exoplayer, 
+ Room among other libraries.
+If you decide to visit Santiago de Cuba, without a doubt this is the app you need. 
+ Do you need help to organize your visit? Are you looking for a complete, versatile and 
+ entertaining audio guide? Do you want to be up to date with the events of the city? Download this app,
+ choose your route... and start exploring Santiago de Cuba in the way that best suits you!
+
+ </td>
+ <td>
+  <img src="./santiago.webp" height="300" width="150">
+ 
+ </td>
+  </tr> 
+ 
+</table>
 
 
+
+
+* Patrimonial Santa Ifigenia   https://play.google.com/store/apps/details?id=com.inmersoft.santiago <br>
+   
+ <table>
+<tr>
+  <td  width="70%">
+  Paisajes Santiago is an app built entirely in Jetpack Compose using Material Design 2, Exoplayer, 
+ Room among other libraries.
+If you decide to visit Santiago de Cuba, without a doubt this is the app you need. 
+ Do you need help to organize your visit? Are you looking for a complete, versatile and 
+ entertaining audio guide? Do you want to be up to date with the events of the city? Download this app,
+ choose your route... and start exploring Santiago de Cuba in the way that best suits you!
+
+ </td>
+ <td>
+<img src="./cemetery_1.webp" height="300" width="150">
+ 
+ </td>
+  </tr> 
+ 
+</table>
+
+* Z2048   https://play.google.com/store/apps/details?id=com.inmersoft.santiago <br>
+   
+ <table>
+<tr>
+  <td  width="70%">
+  Paisajes Santiago is an app built entirely in Jetpack Compose using Material Design 2, Exoplayer, 
+ Room among other libraries.
+If you decide to visit Santiago de Cuba, without a doubt this is the app you need. 
+ Do you need help to organize your visit? Are you looking for a complete, versatile and 
+ entertaining audio guide? Do you want to be up to date with the events of the city? Download this app,
+ choose your route... and start exploring Santiago de Cuba in the way that best suits you!
+
+ </td>
+ <td>
+<img src="./z.webp" height="300" width="150">
+ 
+ </td>
+  </tr> 
+ 
+</table>
+
+* ShipStar   https://play.google.com/store/apps/details?id=com.inmersoft.santiago <br>
+   
+ <table>
+<tr>
+  <td  width="70%">
+  Paisajes Santiago is an app built entirely in Jetpack Compose using Material Design 2, Exoplayer, 
+ Room among other libraries.
+If you decide to visit Santiago de Cuba, without a doubt this is the app you need. 
+ Do you need help to organize your visit? Are you looking for a complete, versatile and 
+ entertaining audio guide? Do you want to be up to date with the events of the city? Download this app,
+ choose your route... and start exploring Santiago de Cuba in the way that best suits you!
+
+ </td>
+ <td>
+<img src="./sstart.webp" height="150" width="300">
+ 
+ </td>
+  </tr> 
+ 
+</table>
+
+* ShipStar   https://play.google.com/store/apps/details?id=com.inmersoft.santiago <br>
+   
+ <table>
+<tr>
+  <td  width="70%">
+  Paisajes Santiago is an app built entirely in Jetpack Compose using Material Design 2, Exoplayer, 
+ Room among other libraries.
+If you decide to visit Santiago de Cuba, without a doubt this is the app you need. 
+ Do you need help to organize your visit? Are you looking for a complete, versatile and 
+ entertaining audio guide? Do you want to be up to date with the events of the city? Download this app,
+ choose your route... and start exploring Santiago de Cuba in the way that best suits you!
+
+ </td>
+ <td>
+<img src="./image_3.jpeg" height="300" width="150">
+ 
+ </td>
+  </tr> 
+ 
+</table>
+
+
+
+
+ 
 
 *************  
  
