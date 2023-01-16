@@ -34,8 +34,7 @@ I have acquired skills with the following tools and libraries that have allowed 
 *************  
 ## Some Projects:
 
-###Some applications in which I have collaborated as an Android Developer.
-
+### Some applications in which I have collaborated as an Android Developer.
 
 * Descubre Trinidad  <br>
 [<img src="https://lh3.googleusercontent.com/RyLoNcOmb91IxHIP9NWfC82chbsCsT-5R25efns1FmuM8xz6znE4CRjIEBosZ1FH2xG1UqH6Axyp-vPFnm4sazbrsaB-S0QT_cN9uWU9UKoSQYCjYQ=s0">](https://play.google.com/store/apps/details?id=com.inmersoft.descubretrinidad)   
@@ -144,6 +143,21 @@ If you like puzzle games, then this one, created by Inmersoft, will take you to 
   </tr> 
  
 </table> 
+
+* Travel App  https://github.com/orlandev/TravelApp<br>
+ <table>
+<tr>
+  <td  width="70%">  
+   A simple UI for a travel app using Jetpack Compose used as UI mockup and learning
+ </td>
+ <td>
+<img src="./image_3.jpeg" height="300" width="150">
+ 
+ </td>
+  </tr> 
+ 
+</table> 
+ 
  
 
 *************  
