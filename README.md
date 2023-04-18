@@ -30,6 +30,8 @@ I have acquired skills with the following tools and libraries that have allowed 
 [![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&labelColor=101010)]()
 <br>
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&labelColor=101010)]()
+<br>
+[![Flutter](https://img.shields.io/badge/Flutter-0095D5?style=for-the-badge&logo=flutter&labelColor=101010)]()
 
 *************  
 ## Some Projects:
