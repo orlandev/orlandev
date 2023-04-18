@@ -24,13 +24,9 @@ I have acquired skills with the following tools and libraries that have allowed 
 </br>
 
 [![Android](https://img.shields.io/badge/Android-72ae2d?style=for-the-badge&logo=android&labelColor=101010)]()
-<br>
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-0095D5?style=for-the-badge&logo=jetpack-compose&labelColor=101010)]()
-<br>
 [![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&labelColor=101010)]()
-<br>
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&labelColor=101010)]()
-<br>
 [![Flutter](https://img.shields.io/badge/Flutter-0095D5?style=for-the-badge&logo=flutter&labelColor=101010)]()
 
 *************  
