@@ -32,6 +32,9 @@ I have acquired skills with the following tools and libraries that have allowed 
 *************  
 ## Some Projects:
 
+### Some Apps for practicing: <a href="https://catlovers01.web.app/">Abrir app en la web</a>
+<img src="https://github.com/orlandev/cat_lovers/blob/master/media/image.webp" />
+
 ### Some applications in which I have collaborated as an Android Developer.
 
 * Descubre Trinidad  <br>
